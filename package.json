@@ -1,0 +1,14 @@
+{
+  "name": "rooster-regulation",
+  "version": "1.0.0",
+  "description": "using tdd to create test for rooster object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index_test.js"
+  },
+  "author": "Daniel Bontii",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.3"
+  }
+}
